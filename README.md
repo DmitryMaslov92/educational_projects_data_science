@@ -1,7 +1,9 @@
 ![Иллюстрация к репозиторю](https://github.com/DmitryMaslov92/educational_projects_data_science/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a75565030577745574f747048733430452e706e67.png)
 
 # educational_projects_data_science
-**В этом репозитории собраны учебные проекты, выполненные мной в ходе обучения на [Яндекс.Практикум](https://practicum.yandex.ru/profile/data-scientist/) (специалист по Data Science).**
+**В этом репозитории собраны проекты, выполненные мной в ходе обучающих курсов [Яндекс.Практикум (специалист по Data Science)](https://practicum.yandex.ru/profile/data-scientist/).**
+
+Проекты представлены в виде iPython Notebooks, описание к проектам - readme markdown файлы. 
 
 ## [1. Сравнение музыкальных предпочтений жителей Москвы и Санкт-Петербурга](https://github.com/DmitryMaslov92/educational_projects_data_science/tree/main/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D0%BE%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B8%CC%86%20%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%CC%86%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B%20%D0%B8%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0)
 
@@ -15,6 +17,8 @@
 
 Проект по анализу банковских данных клиентов, целевой признак - факт погашения кредита в срок.
 Финальный проект по главе "Предобработка данных".
+
+
 
 
 ## [3. Исследование объявлений о продаже квартир](https://github.com/DmitryMaslov92/educational_projects_data_science/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%CC%86%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80)
