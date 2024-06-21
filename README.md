@@ -1,7 +1,7 @@
 ![Иллюстрация к репозиторю](https://github.com/DmitryMaslov92/educational_projects_data_science/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a75565030577745574f747048733430452e706e67.png)
 
 # educational_projects_data_science
-**В этом репозитории собраны проекты, выполненные мной в ходе обучающих курсов [Яндекс.Практикум (специалист по Data Science)](https://practicum.yandex.ru/profile/data-scientist/).**
+**В этом репозитории собраны проекты, выполненные мной в ходе обучающих курсов [Яндекс.Практикум (специалист по Data Science)](https://practicum.yandex.ru/data-scientist/).**
 
 Проекты представлены в виде iPython Notebooks, описание к проектам - readme markdown файлы. 
 
